@@ -4,6 +4,7 @@ public class hellojava {
      *当需要定义一组常量时，推荐使用枚举类
      * 如果枚举类中需要的对象只有一个，则可以用单例的方式实现
      *
+     * 使用快捷键alt +shift+箭头，使得一整段代码上下移动
      */
 
     public static void main(String[] args) {
