@@ -4,6 +4,7 @@ public class enumDemo {
      *使用enum关键词定义枚举类
      * 默认继承自class java.lang.Enum,tostring默认打印的是对象的枚举的名字
      */
+    
 
     public static void main(String[] args) {
         Season spring = Season.SPRING;
